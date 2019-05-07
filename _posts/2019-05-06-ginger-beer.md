@@ -1,7 +1,5 @@
 ---
 published: false
----
----
 title: Ginger Beer
 ---
 
