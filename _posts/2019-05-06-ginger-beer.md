@@ -9,7 +9,7 @@ I've been on a quest to try every non-alcoholic ginger beer out there to decide 
 
 For reference this is a list of the ginger beers in the picture above (and ales or derivatives) from left to right
 
-- A. Bedford's
+- [A. Bedford's ](###A.-Bedford's:)
 - B. Trader Joe's
 - C. Bruce Cost
 - D. Bottoms Up (The Ginger People)
