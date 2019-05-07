@@ -11,7 +11,7 @@ For reference this is a list of the ginger beers in the picture above (and ales 
 
 - [A. Bedford's ](#a-bedfords)
 - [B. Trader Joe's](#b-trader-joes)
-- C. Bruce Cost
+- [C. Bruce Cost (Ale)](#c-bruce-cost)
 - D. Bottoms Up (The Ginger People)
 - E. Reading Draft
 - F. Cock and Bull
@@ -101,5 +101,33 @@ Review:
 
 This ginger beer has some lemon and lime and as a result tastest a bit like a ginger beer with a sprite base. It's one of the cheaper ginger beers and is a little closer to the line of a brew than a soda, but still tastes sweeter and a bit fruitier than some of the other ginger beers. It's not my top pick but it isn't bad.
 
+### **C. Bruce Cost:**
 
+![Bruce Cost Ginger Ale]({{site.baseurl}}/img/gingerbeer/BruceCost.png)
 
+Nutrition Facts:
+
+- Calories: 160
+- Fat: 0
+- Sodium: 0mg
+- Total Carb: 40g
+- Sugars: 37g
+- Protein: 0g
+
+Ingredients:
+
+- Carbonated Water
+- Pure Cane Sugar
+- Fresh Ginger
+- Citric Acid
+
+Distributed: BCGA CONCEPT CORP, Brooklyn, NY
+
+Ginger Particles: YES
+
+Review: 
+
+- Spiciness: 3/5
+- Overall: 3/5
+
+This is one of the few ginger ales I've seen that has actual fresh ginger. Bruce cost also makes a variety of ales with different fruits such as pomegranate. Since they use fresh ginger (and quite a bit of it at that) this is one of the more rooty ones if you're into that. It has enough sugar to still be sweet but you'll definitely feel the spice as well, it provides a nice balance. 
