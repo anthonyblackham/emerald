@@ -1,7 +1,9 @@
 ---
 published: false
 ---
-## Ginger Beer
+---
+title: Ginger Beer
+---
 
 ![Ginger Beers]({{site.baseurl}}/img/gingerbeer/GingerBeersCropped.jpg)
 
@@ -64,7 +66,7 @@ Review:
 - Spiciness: 2/5
 - Overall: 3/5
 
-This ginger beer is quite sugary and is definitely more of a soda than a brew. As it uses real ginger you can taste a bit of spice though it is not overly spicy. It's not a terrible soda, but nothing incredibly special either, I'd give it a 3/5
+This ginger beer is quite sugary and is definitely more of a soda than a brew. As it uses real ginger you can taste a bit of spice though it is not overly spicy. It's not a terrible soda, but nothing incredibly special either.
 
 
 
