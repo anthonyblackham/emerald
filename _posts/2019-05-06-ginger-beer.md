@@ -66,6 +66,40 @@ Review:
 
 This ginger beer is quite sugary and is definitely more of a soda than a brew. As it uses real ginger you can taste a bit of spice though it is not overly spicy. It's not a terrible soda, but nothing incredibly special either.
 
+### **B. Trader Joe's:**
+
+![Trader Joe's]({{site.baseurl}}/img/gingerbeer/TraderJoes.jpg)
+
+Nutrition Facts:
+
+- Calories: 140
+- Fat: 0
+- Sodium: 10mg
+- Total Carb: 36g
+- Sugars: 35g
+- Protein: 0g
+
+Ingredients:
+
+- Water
+- Sugar
+- Ginger Juice
+- Lime Juice Concentrate
+- Lemon Juice Concentrate
+- Natural Ginger Ale Flavor
+- Natural Flavors
+- Ginger Extract
+
+Distributed and Sold: Trader Joe's, Monrovia, CA
+
+Ginger Particles: YES (just a tad cloudy)
+
+Review: 
+
+- Spiciness: 2/5
+- Overall: 3/5
+
+This ginger beer has some lemon and lime and as a result tastest a bit like a ginger beer with a sprite base. It's one of the cheaper ginger beers and is a little closer to the line of a brew than a soda, but still tastes sweeter and a bit fruitier than some of the other ginger beers. It's not my top pick but it isn't bad.
 
 
 
