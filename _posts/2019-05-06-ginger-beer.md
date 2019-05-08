@@ -16,7 +16,7 @@ For reference this is a list of the ginger beers in the picture above (and ales 
 - [E. Reading Draft](#e-reading-draft)
 - [F. Cock'n Bull](#f-cockn-bull)
 - [G. Rachel's Ginger Beer](#g-rachels-ginger-beer)
-- [H. Reed's](#reeds)
+- [H. Reed's](#h-reeds)
 - I. Fentimans
 - J. Fever Tree
 - K. Q
@@ -296,7 +296,3 @@ Review:
 - Overall: 1/5
 
 I'm going to be honest. I hate this ginger beer. The pineapple juice is a travesty that ruins the whole thing. It probably wouldn't be bad if it had a different base. It's a real shame because this is one of the ones stocked everywhere, whereas all of my favourite ones are nowhere to be found other than obscure specialty soda shops or halfway across the world.
-
-
-
-
