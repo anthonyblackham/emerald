@@ -15,8 +15,8 @@ For reference this is a list of the ginger beers in the picture above (and ales 
 - [D. Bottoms Up (The Ginger People)](#d-bottoms-up)
 - [E. Reading Draft](#e-reading-draft)
 - [F. Cock'n Bull](#f-cockn-bull)
-- G. Rachel's Ginger Beer
-- H. Reed's
+- [G. Rachel's Ginger Beer](#g-rachels-ginger-beer)
+- [H. Reed's](#reeds)
 - I. Fentimans
 - J. Fever Tree
 - K. Q
@@ -225,9 +225,78 @@ Ginger Particles: NO
 
 Review: 
 
-- Spiciness: 2/5
+- Spiciness: 3/5
 - Overall: 4/5
 
 This ginger beer has a good taste with some spice. It's in my top 5 even though it isn't as gingery (the ingredients don't even list ginger, unless it's bucketed under "natural flavor"), it makes up for it in flavor.
+
+### **G Rachel's Ginger Beer:**
+
+![Rachel's Ginger Beer]({{site.baseurl}}/img/gingerbeers/rachels.jpg)
+
+Nutrition Facts:
+
+- Calories: 90
+- Fat: 0
+- Sodium: 10mg
+- Potassium 165 mg
+- Total Carb: 24g
+- Sugars: 17g
+- Protein: 1g
+
+Ingredients:
+
+- Water
+- Lemon
+- Ginger
+- Organic Sugar
+
+Brewed and Bottled: RGB Soda LLC., Seattle, WA
+
+Ginger Particles: YES
+
+Review: 
+
+- Spiciness: 3/5
+- Overall: 4/5
+
+This isn't really in the same realm as the other ginger beers as it's really more of a ginger lemonade. It is quite good though as it uses fresh ingredients and has a good amount of ginger that settles at the bottom. 
+
+### **H Reeds:**
+
+![Reeds]({{site.baseurl}}/img/gingerbeers/reeds.jpeg)
+
+Nutrition Facts:
+
+- Calories: 130
+- Fat: 0
+- Sodium: 5mg
+- Total Carb: 33g
+- Sugars: 33g
+- Protein: 0g
+
+Ingredients:
+
+- Sparkling Filtered Water - Sweetened By:
+  - Raw Sugar Cane
+  - Pineapple Juice From Concentrate
+  - Honey
+- Fresh Ginger Root
+- Lemon Juice From Concentrate
+- Lime Juice From Concentrate
+- Spices
+
+By: Reed's Inc., L.A., CA
+
+Ginger Particles: YES
+
+Review: 
+
+- Spiciness: 3/5
+- Overall: 1/5
+
+I'm going to be honest. I hate this ginger beer. The pineapple juice is a travesty that ruins the whole thing. It probably wouldn't be bad if it had a different base. It's a real shame because this is one of the ones stocked everywhere, whereas all of my favourite ones are nowhere to be found other than obscure specialty soda shops or halfway across the world.
+
+
 
 
