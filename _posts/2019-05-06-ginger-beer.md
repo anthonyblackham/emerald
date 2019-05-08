@@ -232,7 +232,7 @@ Review:
 
 This ginger beer has a good taste with some spice. It's in my top 5 even though it isn't as gingery (the ingredients don't even list ginger, unless it's bucketed under "natural flavor"), it makes up for it in flavor.
 
-### **G Rachel's Ginger Beer:**
+### **G. Rachel's Ginger Beer:**
 
 ![Rachel's Ginger Beer]({{site.baseurl}}/img/gingerbeers/rachels.jpg)
 
@@ -264,7 +264,7 @@ Review:
 
 This isn't really in the same realm as the other ginger beers as it's really more of a ginger lemonade. It is quite good though as it uses fresh ingredients and has a good amount of ginger that settles at the bottom. 
 
-### **H Reeds:**
+### **H. Reeds:**
 
 ![Reeds]({{site.baseurl}}/img/gingerbeers/reeds.jpeg)
 
