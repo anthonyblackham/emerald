@@ -99,7 +99,7 @@ Review:
 - Spiciness: 2/5
 - Overall: 3/5
 
-This ginger beer has some lemon and lime and as a result tastest a bit like a ginger beer with a sprite base. It's one of the cheaper ginger beers and is a little closer to the line of a brew than a soda, but still tastes sweeter and a bit fruitier than some of the other ginger beers. It's not my top pick but it isn't bad.
+This ginger beer has some lemon and lime and as a result tastes a bit like a ginger beer with a sprite base. It's one of the cheaper ginger beers and is a little closer to the line of a brew than a soda, but still tastes sweeter and a bit fruitier than some of the other ginger beers. It's not my top pick but it isn't bad.
 
 ### **C. Bruce Cost:**
 
