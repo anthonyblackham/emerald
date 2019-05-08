@@ -20,7 +20,7 @@ For reference this is a list of the ginger beers in the picture above (and ales 
 - [I. Fentimans](#i-fentimans)
 - [J. Fever Tree](#j-fever-tree)
 - [K. Q](#k-q)
-- L. Blenheims (Ale)
+- [L. Blenheim (Ale)](#l-blenheim)
 - M. Anchor (Root Beer)
 - N. Thomas Kemper (Ale)
 - O. Bawls (Energy Drink)
@@ -403,4 +403,42 @@ Review:
 - Overall: 3/5
 
 It's similar to Fever Tree but a bit different due to the chili extracts. It's still better as a mixer than on it's own in my opinion.
+
+### **L. Blenheim:**
+
+![Blenheim]({{site.baseurl}}/img/gingerbeers/Blenheim.jpg)
+
+Nutrition Facts:
+
+- Calories: 170
+- Fat: 0
+- Sodium: 0mg
+- Total Carb: 41g
+- Sugars: 41g
+- Protein: 0g
+
+Ingredients:
+
+- Carbonated Water
+- Sucrose
+- Citric Acid
+- Sodium Benzoate (Preservative)
+- Natural Flavoring
+- Caramel Color
+- Real Ginger
+
+Brewed and Bottled: Blenheim Bottlers, Blenheim, SC
+
+Ginger Particles: YES
+
+Review: 
+
+- Spiciness: 3/5
+- Overall: 3/5
+
+This is technically a ginger ale but it's one of the few that has actual ginger in the ingredients instead of just citric acid. It has a bit of a stale aftertaste but it tastes alright for a soda.
+
+
+
+
 
