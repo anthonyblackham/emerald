@@ -18,8 +18,8 @@ For reference this is a list of the ginger beers in the picture above (and ales 
 - [G. Rachel's Ginger Beer](#g-rachels-ginger-beer)
 - [H. Reed's](#h-reeds)
 - [I. Fentimans](#i-fentimans)
-- J. Fever Tree
-- K. Q
+- [J. Fever Tree](#j-fever-tree)
+- [K. Q](#k-q)
 - L. Blenheims (Ale)
 - M. Anchor (Root Beer)
 - N. Thomas Kemper (Ale)
@@ -30,6 +30,8 @@ For reference this is a list of the ginger beers in the picture above (and ales 
 - S. Powell and Mahoney
 - T. Hot Lips (Ale)
 - U. Kroger
+- V. President's Choice
+- W. Maine Root
 
 ###  **A. Bedford's:** 
 
@@ -332,4 +334,73 @@ Review:
 - Overall: 2/5
 
 This ginger beer is labeled as botanically brewed and you can definitely taste a yeasty flowery taste. The capsicum adds to the spice but for the ginger beer its the wrong kind of spice (the kind that burns your tongue rather than your throat) It's an ok brew but I wouldn't go out of my way to buy it.
+
+### **J. Fever Tree:**
+
+![Fever Tree]({{site.baseurl}}/img/gingerbeers/fevertree.png)
+
+Nutrition Facts:
+
+- Calories: 90
+- Fat: 0
+- Sodium: 0mg
+- Total Carb: 20g
+- Sugars: 18g
+- Protein: 0g
+
+Ingredients:
+
+- Carbonated Spring Water
+- Cane Sugar
+- Ginger Root
+- Natural Flavors
+- Tartaric Acid (from natural plant sources)
+- Ascorbic Acid
+
+Distributed: Brands of Britain LLC, San Ramon, CA
+
+Ginger Particles: YES
+
+Review: 
+
+- Spiciness: 3/5
+- Overall: 3/5
+
+It's spicy but a little more on the bitter side. This is really meant as more of a mixer.
+
+### **K. Q:**
+
+![Q]({{site.baseurl}}/img/gingerbeers/q.png)
+
+Nutrition Facts:
+
+- Calories: 80
+- Fat: 0
+- Sodium: 0mg
+- Total Carb: 19g
+- Sugars: 18g
+- Protein: 0g
+
+Ingredients:
+
+- Carbonated Water
+- Organic Agave
+- Citric Acid
+- Ginger Extract
+- Extracts of Chili Pepper
+- Coriander
+- Cardamom
+- Lime
+- Orange
+
+Distributed: Q Drinks, Brooklyn, NY
+
+Ginger Particles: YES
+
+Review: 
+
+- Spiciness: 3/5
+- Overall: 3/5
+
+It's similar to Fever Tree but a bit different due to the chili extracts. It's still better as a mixer than on it's own in my opinion.
 
