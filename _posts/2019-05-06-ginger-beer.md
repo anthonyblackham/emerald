@@ -14,7 +14,7 @@ For reference this is a list of the ginger beers in the picture above (and ales 
 - [C. Bruce Cost (Ale)](#c-bruce-cost)
 - [D. Bottoms Up (The Ginger People)](#d-bottoms-up)
 - [E. Reading Draft](#e-reading-draft)
-- [F. Cock'n Bull](#f-cock-n-bull)
+- [F. Cock'n Bull](#f-cockn-bull)
 - G. Rachel's Ginger Beer
 - H. Reed's
 - I. Fentimans
