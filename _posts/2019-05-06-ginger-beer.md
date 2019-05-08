@@ -17,7 +17,7 @@ For reference this is a list of the ginger beers in the picture above (and ales 
 - [F. Cock'n Bull](#f-cockn-bull)
 - [G. Rachel's Ginger Beer](#g-rachels-ginger-beer)
 - [H. Reed's](#h-reeds)
-- I. Fentimans
+- [I. Fentimans](#i-fentimans)
 - J. Fever Tree
 - K. Q
 - L. Blenheims (Ale)
@@ -296,3 +296,40 @@ Review:
 - Overall: 1/5
 
 I'm going to be honest. I hate this ginger beer. The pineapple juice is a travesty that ruins the whole thing. It probably wouldn't be bad if it had a different base. It's a real shame because this is one of the ones stocked everywhere, whereas all of my favourite ones are nowhere to be found other than obscure specialty soda shops or halfway across the world.
+
+### **I. Fentimans:**
+
+![Fentimans]({{site.baseurl}}/img/gingerbeers/fentimans.png)
+
+Nutrition Facts:
+
+- Calories: 110
+- Fat: 0
+- Sodium: 25mg
+- Total Carb: 25g
+- Sugars: 21g
+- Protein: 0g
+
+Ingredients:
+
+- Carbonated Water
+- Fermented Ginger Root Extract (water, glucose syrup, ginger root, pear juice concentrate, yeast)
+- Beet Sugar
+- Glucose Sugar
+- Pear Juice Concentrate
+- Flavorings (ginger, lemon, capsicum)
+- Cream of Tartar
+- Citric Acid
+- Herbal Infusions (speedwell, juniper, yarrow)
+
+Manufactured for: Fentimans North America, Inc. Burnaby, Canada
+
+Ginger Particles: YES
+
+Review: 
+
+- Spiciness: 2/5
+- Overall: 2/5
+
+This ginger beer is labeled as botanically brewed and you can definitely taste a yeasty flowery taste. The capsicum adds to the spice but for the ginger beer its the wrong kind of spice (the kind that burns your tongue rather than your throat) It's an ok brew but I wouldn't go out of my way to buy it.
+
