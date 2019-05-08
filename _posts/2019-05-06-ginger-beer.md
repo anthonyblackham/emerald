@@ -13,8 +13,8 @@ For reference this is a list of the ginger beers in the picture above (and ales 
 - [B. Trader Joe's](#b-trader-joes)
 - [C. Bruce Cost (Ale)](#c-bruce-cost)
 - [D. Bottoms Up (The Ginger People)](#d-bottoms-up)
-- E. Reading Draft
-- F. Cock and Bull
+- [E. Reading Draft](#e-reading-draft)
+- [F. Cock'n Bull](#f-cock-n-bull)
 - G. Rachel's Ginger Beer
 - H. Reed's
 - I. Fentimans
@@ -162,4 +162,72 @@ Review:
 - Overall: 2/5
 
 This ginger beer has a bit of a floor cleaner taste to me. Some people like that but I'm not particularly a fan. It has an ok amount of ginger but I just can't get behind the taste on it.
+
+### **E. Reading Draft:**
+
+![Reading Draft]({{site.baseurl}}/img/gingerbeer/readingdraft.jpg)
+
+
+Nutrition Facts:
+
+- Calories: 180
+- Fat: 0
+- Sodium: 30mg
+- Total Carb: 44g
+- Sugars: 44g
+- Protein: 0g
+
+Ingredients:
+
+- Triple Filtered Carbonated Water
+- Pure Cane Sugar
+- Citric Acid
+- Natural Ginger Emulsion and Flavor
+- Sodium Benzoate (Preserves Freshness)
+- Caramel
+
+Brewed and Bottled: Reading Draft Birch Beer, Inc., Reading, PA
+
+Ginger Particles: NO
+
+Review: 
+
+- Spiciness: 3/5
+- Overall: 4/5
+
+This ginger beer tastes sweet but has a bit of spice. It has a rooty but sweet subtle root taste as opposed to a bitter root taste. It tastes like a forest to me. It's definitely in my top 5 ginger beers and will buy it if I see it on the shelf
+
+### **F. Cock'n Bull:**
+
+![Cock'n Bull]({{site.baseurl}}/img/gingerbeers/CocknBull.jpg)
+
+Nutrition Facts:
+
+- Calories: 160
+- Fat: 0
+- Sodium: 30mg
+- Total Carb: 40g
+- Sugars: 40g
+- Protein: 0g
+
+Ingredients:
+
+- Carbonated Water
+- Real Sugar
+- Citric Acid
+- Sodium Benzoate (to preserve freshness)
+- Natural Flavor
+- Caramel Color
+
+Bottled under authority of: Cock'n Bull LTD. Div. C-B Beverage Corporation, Columbus, OH
+
+Ginger Particles: NO
+
+Review: 
+
+- Spiciness: 2/5
+- Overall: 4/5
+
+This ginger beer has a good taste with some spice. It's in my top 5 even though it isn't as gingery (the ingredients don't even list ginger, unless it's bucketed under "natural flavor"), it makes up for it in flavor.
+
 
