@@ -26,7 +26,7 @@ For reference this is a list of the ginger beers in the picture above (and ales 
 - [O. Bawls (Energy Drink)](#o-bawls)
 - [P. Diet Bundaberg](#p-diet-bundaberg)
 - [Q. Bundaberg](#q-bundaberg)
-- R. Blue Sky (Ale)
+- [R. Blue Sky (Ale)](#r-blue-sky)
 - S. Powell and Mahoney
 - T. Hot Lips (Ale)
 - U. Kroger
@@ -624,6 +624,37 @@ Review:
 
 This ginger beer is more of a soda but it is very good. Quite sugary and sweet but you can still feel a some ginger. Bundaberg also has a variety of other sodas that are equally good. 
 
+### **R. Blue Sky:**
+
+![Blue Sky]({{site.baseurl}}/img/gingerbeers/bluesky.jpeg)
+
+Nutrition Facts:
+
+- Calories: 130
+- Fat: 0
+- Sodium: 0mg
+- Total Carb: 32g
+- Sugars: 31g
+- Protein: 0g
+
+Ingredients:
+
+- Carbonated Filtered Water
+- Invert Cane Sugar
+- Citric Acid
+- Natural Flavors
+- Caramel Color
+
+Manufactured For: BLUE SKY BEVERAGE, Tustin, GA
+
+Ginger Particles: NO
+
+Review: 
+
+- Spiciness: 2/5
+- Overall: 2/5
+
+Run of the mill ginger ale.
 
 
 
