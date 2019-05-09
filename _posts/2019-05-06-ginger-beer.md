@@ -24,8 +24,8 @@ For reference this is a list of the ginger beers in the picture above (and ales 
 - [M. Anchor (Root Beer)](#m-anchor)
 - [N. Thomas Kemper (Ale)](#n-thomas-kemper)
 - [O. Bawls (Energy Drink)](#o-bawls)
-- P. Diet Bundaberg
-- Q. Bundaberg
+- [P. Diet Bundaberg](#p-diet-bundaberg)
+- [Q. Bundaberg](#q-bundaberg)
 - R. Blue Sky (Ale)
 - S. Powell and Mahoney
 - T. Hot Lips (Ale)
@@ -541,6 +541,90 @@ Review:
 - Overall: 2/5
 
 This is an energy drink with a hint of ginger and can't be compared to ginger beers. It also tastes like a circus peanut (the orange ones, not the actual peanuts). People generally drink these for caffeine content rather than taste.
+
+### **P. Diet Bundaberg:**
+
+![Diet Bundaberg]({{site.baseurl}}/img/gingerbeers/dietbundaberg.jpeg)
+
+Nutrition Facts:
+
+- Calories: 25
+- Fat: 0
+- Sodium: 42mg
+- Total Carb: 6g
+- Sugars: 5g
+- Protein: 0g
+
+Ingredients:
+
+- Carbonated Water
+- Ginger Root
+- Cane Sugar
+- Flavor
+- Citric Acid
+- Malic Acid
+- Preservatives
+  - Potassium Sorbate
+  - Sodium Benzoate
+- Antioxidant (Ascorbic Acid)
+- Yeast
+- Aspartame
+- Stabilizer (Sugar Gum)
+- Acesulfame
+- Potassium
+- Sucralose
+- Contains Phenylalanine
+
+
+BUNDABERG BREWED DRINKS PTY LTD, Australia
+
+Ginger Particles: YES
+
+Review: 
+
+- Spiciness: 3/5
+- Overall: 2/5
+
+It's good as far as diet sodas go. But I don't like diet, may as well drink lemon water instead of something masquerading as tasty and falling flat.
+
+### **Q. Bundaberg:**
+
+![Bundaberg]({{site.baseurl}}/img/gingerbeers/bundaberg.jpg)
+
+Nutrition Facts:
+
+- Calories: 170
+- Fat: 0
+- Sodium: 41mg
+- Total Carb: 40g
+- Sugars: 40g
+- Protein: 0g
+
+Ingredients:
+
+- Carbonated Water
+- Cane Sugar
+- Ginger Root
+- Natural Flavors
+- Citric Acid
+- Yeast
+- Preservatives
+  - Potassium Sorbate
+  - Sodium Benzoate
+- Antioxidant (Ascorbic Acid)
+
+BUNDABERG BREWED DRINKS PTY LTD, Australia
+
+Ginger Particles: YES
+
+Review: 
+
+- Spiciness: 3/5
+- Overall: 4/5
+
+This ginger beer is more of a soda but it is very good. Quite sugary and sweet but you can still feel a some ginger. Bundaberg also has a variety of other sodas that are equally good. 
+
+
 
 
 
