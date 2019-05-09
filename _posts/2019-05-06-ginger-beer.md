@@ -27,9 +27,9 @@ For reference this is a list of the ginger beers in the picture above (and ales 
 - [P. Diet Bundaberg](#p-diet-bundaberg)
 - [Q. Bundaberg](#q-bundaberg)
 - [R. Blue Sky (Ale)](#r-blue-sky)
-- S. Powell and Mahoney
-- T. Hot Lips (Ale)
-- U. Kroger
+- [S. Powell and Mahoney](#s-powell-and-mahoney)
+- [T. Hot Lips (Ale)](#t-hot-lips)
+- [U. Kroger](#u-kroger)
 - V. President's Choice
 - W. Maine Root
 
@@ -655,6 +655,107 @@ Review:
 - Overall: 2/5
 
 Run of the mill ginger ale.
+
+### **S. Powell And Mahoney:**
+
+![Powell and Mahoney]({{site.baseurl}}/img/gingerbeer/powellandmahoney.jpg)
+
+Nutrition Facts:
+
+- Calories: 140
+- Fat: 0
+- Sodium: 10mg
+- Total Carb: 35g
+- Sugars: 33g
+- Protein: 0g
+- Potassium: 120mg
+
+Ingredients:
+
+- Carbonated Water
+- Cane Sugar
+- Natural Flavor
+- Citric Acid
+- Ascorbic Acid
+- Ginger Extract
+- Capsicum Extract
+
+Distributed By: POWELL AND MAHONEY, Salem, MA
+
+Ginger Particles: NO
+
+Review: 
+
+- Spiciness: 4/5
+- Overall: 1/5
+
+Why don't you just pour mace in my ginger beer and call it good. I like spice probably more than most people but this ginger beer is a travesty. It burns in all the wrong places (namely your tongue and eventually your bum) where any proper ginger beer should have a horseradishy throat burn, not a carolina reaper tongue burn.
+
+### **T. Hot Lips:**
+
+![Hot Lips]({{site.baseurl}}/img/gingerbeers/hotlips.jpg)
+
+Nutrition Facts:
+
+- Calories: 141
+- Fat: 0
+- Sodium: 2mg
+- Total Carb: 36g
+- Sugars: 36g
+- Protein: <1g
+
+Ingredients:
+
+- Sparkling Water
+- Organic Ginger
+- Cane Sugar
+- Lemon Juice
+
+Distributed By: HOTLIPS SODA, Portland, OR
+
+Ginger Particles: YES
+
+Review: 
+
+- Spiciness: 3/5
+- Overall: 2/5
+
+Tastes like pina colada to me, one of the few ginger ales with real ginger.
+
+### **U. Kroger:**
+
+![Kroger]({{site.baseurl}}/img/gingerbeers/kroger.jpeg)
+
+Nutrition Facts:
+
+- Calories: 165
+- Fat: 0
+- Sodium: 35mg
+- Total Carb: 42g
+- Sugars: 42g
+- Protein: 0g
+
+Ingredients:
+
+- Carbonated Water
+- High Fructose Corn Syrup
+- Natural Flavor
+- Citric Acid
+- Sodium Benzoate (Preservative)
+- Caramel Color
+- Gum Acacia
+
+Distributed By: The Kroger Co. Cincinnati, OH
+
+Ginger Particles: NO
+
+Review: 
+
+- Spiciness: 3/5
+- Overall: 4/5
+
+Even though this is mass produced at the local grocery store and super cheap, for what it is it provides a nice burn with a decent flavor. Much closer to a soda than a brew with the high fructose corn syrup but the taste and after taste aren't bad at all.
+
 
 
 
