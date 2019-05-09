@@ -21,9 +21,9 @@ For reference this is a list of the ginger beers in the picture above (and ales 
 - [J. Fever Tree](#j-fever-tree)
 - [K. Q](#k-q)
 - [L. Blenheim (Ale)](#l-blenheim)
-- M. Anchor (Root Beer)
-- N. Thomas Kemper (Ale)
-- O. Bawls (Energy Drink)
+- [M. Anchor (Root Beer)](#m-anchor)
+- [N. Thomas Kemper (Ale)](#n-thomas-kemper)
+- [O. Bawls (Energy Drink)](#o-bawls)
 - P. Diet Bundaberg
 - Q. Bundaberg
 - R. Blue Sky (Ale)
@@ -438,7 +438,109 @@ Review:
 
 This is technically a ginger ale but it's one of the few that has actual ginger in the ingredients instead of just citric acid. It has a bit of a stale aftertaste but it tastes alright for a soda.
 
+### **M. Anchor:**
 
+![Anchor]({{site.baseurl}}/img/gingerbeers/anchor.png)
+
+Nutrition Facts:
+
+- Calories: 170
+- Fat: 0
+- Sodium: 40mg
+- Total Carb: 43g
+- Sugars: 43g
+- Protein: 0g
+
+Ingredients:
+
+- Carbonated Water
+- Cane Sugar
+- Natural Flavors
+- Artificial Flavors
+- Caramel Color
+- Phosphoric Acid
+- Sodium Benzoate (A Preservative)
+- Ginger
+
+Bottled: Orca Beverage Soda Works, Mukilteo, WA
+
+Ginger Particles: NO
+
+Review: 
+
+- Spiciness: 2/5
+- Overall: 3/5
+
+This is just a root beer with a hint of ginger so it can't really be compared to the other ginger beers, but as far as root beers go, it's not bad.
+
+### **N. Thomas Kemper:**
+
+![Thomas Kemper]({{site.baseurl}}/img/gingerbeers/thomaskemper.png)
+
+Nutrition Facts:
+
+- Calories: 150
+- Fat: 0
+- Sodium: 45mg
+- Total Carb: 36g
+- Sugars: 35g
+- Protein: 0g
+
+Ingredients:
+
+- Carbonated Water
+- Cane Sugar
+- Honey
+- Citric Acid
+- Sodium Benzoate (For Freshness)
+- Natural Flavor
+- Caramel Color
+
+Bottled: THOMAS KEMPER SODA CO., Portland, OR
+
+Ginger Particles: NO
+
+Review: 
+
+- Spiciness: 3/5
+- Overall: 3/5
+
+This is a ginger ale, standard soda rather than a brew but has a nice flavor. 
+
+### **O. Bawls:**
+
+![Bawls]({{site.baseurl}}/img/gingerbeers/bawls-ginger.png)
+
+Nutrition Facts:
+
+- Calories: 130
+- Fat: 0
+- Sodium: 30mg
+- Total Carb: 33g
+- Sugars: 31g
+- Protein: 0g
+
+Ingredients:
+
+- Carbonated Water
+- High Fructose Corn Syrup
+- Natural Flavor
+- Artificial Flavor
+- Citric Acid
+- Sodium Benzoate (As a Preservative)
+- Caffeine
+- Guarana Extract
+
+Manufactured for: BAWLS, Twinsburg, OH
+
+Ginger Particles: NO
+
+Review: 
+
+- Spiciness: 2/5
+- Overall: 2/5
+
+This is an energy drink with a hint of ginger and can't be compared to ginger beers. It also tastes like a circus peanut (the orange ones, not the actual peanuts). People generally drink these for caffeine content rather than taste.
 
 
 
