@@ -33,6 +33,20 @@ For reference this is a list of the ginger beers in the picture above (and ales 
 - [V. President's Choice](#v-presidents-choice)
 - [W. Maine Root](#w-maine-root)
 
+I did a taste panel where I had 5 different people all taste the same ginger beers and rate it on a 1-5 scale based on Heat, Flavour, and Desire. This is the chart with the averaged results. As most weren't typical ginger beer drinkers you can see the chart is skewed to favour the most sugary soda-like drinks as opposed to a typical spicy rooty ginger drink.
+
+![Taste Panel]({{site.baseurl}}/img/gingerbeers/GingerBeerTastePanel.png)
+
+My Top 5:
+
+1. Maine Root
+2. President's Choice
+3. Reading Draft
+4. Cock'n Bull
+5. Bundaberg
+
+with honourable mentions for Kroger and Rachel's Ginger Beer. You can see my individual reviews of each ginger beer below if you want more detail on nutrition, ingredients, and taste.
+
 ###  **A. Bedford's:** 
 
 ![Bedfords Ginger Beer]({{site.baseurl}}/img/gingerbeer/BedfordsGingerBeer.png)
