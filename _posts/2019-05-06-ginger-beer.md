@@ -30,8 +30,8 @@ For reference this is a list of the ginger beers in the picture above (and ales 
 - [S. Powell and Mahoney](#s-powell-and-mahoney)
 - [T. Hot Lips (Ale)](#t-hot-lips)
 - [U. Kroger](#u-kroger)
-- V. President's Choice
-- W. Maine Root
+- [V. President's Choice](#v-presidents-choice)
+- [W. Maine Root](#w-maine-root)
 
 ###  **A. Bedford's:** 
 
@@ -755,6 +755,72 @@ Review:
 - Overall: 4/5
 
 Even though this is mass produced at the local grocery store and super cheap, for what it is it provides a nice burn with a decent flavor. Much closer to a soda than a brew with the high fructose corn syrup but the taste and after taste aren't bad at all.
+
+### **V. President's Choice:**
+
+![Presiden't Choice]({{site.baseurl}}/img/gingerbeers/presidentschoice.png)
+
+Nutrition Facts:
+
+- Calories: 
+- Fat: 0
+- Sodium: 25mg
+- Total Carb: 30g
+- Sugars: 30g
+- Protein: 0g
+
+Ingredients:
+
+- Carbonated Water
+- Sugar/ Glucose-Fructose
+- Natural Flavour
+- Citric Acid
+- Sodium Benzoate
+- Caramel Colour
+- Gum Arabic.
+
+Distributed By: President's Choice (Loblaw Companies Limited), Canada
+
+Ginger Particles: NO
+
+Review: 
+
+- Spiciness: 4/5
+- Overall: 5/5
+
+I would go to Canada just for this ginger beer. It has a very nice burn along with a great flavour. It's also probably the cheapest of all the ginger beers as it comes in a 2 litre bottle. I can't recommend this ginger beer enough and wish it were distributed worldwide.
+
+
+### **W. Maine Root:**
+
+![Maine Root]({{site.baseurl}}/img/gingerbeers/maineroot.jpg)
+
+
+Nutrition Facts:
+
+- Calories: 165
+- Fat: 0
+- Sodium: 35mg
+- Total Carb: 40g
+- Sugars: 40g
+- Protein: 0g
+
+Ingredients:
+
+- Carbonated Pure Water
+- Fair Trade Certified Organic Cane Sugar
+- Spices
+
+Distributed By: MAINE ROOT, Portland, ME
+
+Ginger Particles: YES
+
+Review: 
+
+- Spiciness: 4/5
+- Overall: 5/5
+
+This is hands down the best ginger beer ever made. It has a very strong spice that without fail makes me sneeze every time I drink a bottle. It has an equally decent flavour. They use all pure ingredients which helps. It used to be prolific but now I cannot locate it anywhere. If you can get your hands on it, you won't regret it.
 
 
 
