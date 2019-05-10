@@ -3,7 +3,7 @@ published: true
 title: Ginger Beer
 ---
 
-![Ginger Beers]({{site.baseurl}}/img/gingerbeer/GingerBeersCropped.jpg)
+![Ginger Beers]({{site.baseurl}}/img/gingerbeer/GingerBeers.jpg)
 
 I've been on a quest to try every non-alcoholic ginger beer out there to decide on which is the best. I have used a very scientific process which involved me drinking a variety of ginger beers and then deciding if I liked it or not.
 
@@ -772,7 +772,7 @@ Even though this is mass produced at the local grocery store and super cheap, fo
 
 ### **V. President's Choice:**
 
-![Presiden't Choice]({{site.baseurl}}/img/gingerbeers/presidentschoice.png)
+![Presiden't Choice]({{site.baseurl}}/img/gingerbeers/v.png)
 
 Nutrition Facts:
 
@@ -807,7 +807,7 @@ I would go to Canada just for this ginger beer. It has a very nice burn along wi
 
 ### **W. Maine Root:**
 
-![Maine Root]({{site.baseurl}}/img/gingerbeers/maineroot.jpg)
+![Maine Root]({{site.baseurl}}/img/gingerbeers/w.png)
 
 
 Nutrition Facts:
