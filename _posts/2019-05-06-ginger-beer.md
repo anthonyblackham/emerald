@@ -49,7 +49,7 @@ with honourable mentions for Kroger and Rachel's Ginger Beer. You can see my ind
 
 ###  **A. Bedford's:** 
 
-![Bedfords Ginger Beer]({{site.baseurl}}/img/gingerbeer/BedfordsGingerBeer.png)
+![Bedfords Ginger Beer]({{site.baseurl}}/img/gingerbeers/a.jpg)
 
 Nutrition Facts:
 
@@ -84,7 +84,7 @@ This ginger beer is quite sugary and is definitely more of a soda than a brew. A
 
 ### **B. Trader Joe's:**
 
-![Trader Joe's]({{site.baseurl}}/img/gingerbeer/TraderJoes.jpg)
+![Trader Joe's]({{site.baseurl}}/img/gingerbeers/b.jpg)
 
 Nutrition Facts:
 
@@ -119,7 +119,7 @@ This ginger beer has some lemon and lime and as a result tastes a bit like a gin
 
 ### **C. Bruce Cost:**
 
-![Bruce Cost Ginger Ale]({{site.baseurl}}/img/gingerbeer/BruceCost.png)
+![Bruce Cost Ginger Ale]({{site.baseurl}}/img/gingerbeers/c.jpg)
 
 Nutrition Facts:
 
@@ -150,7 +150,7 @@ This is one of the few ginger ales I've seen that has actual fresh ginger. Bruce
 
 ### **D. Bottoms Up:**
 
-![Bottoms Up]({{site.baseurl}}/img/gingerbeer/bottomsup.png)
+![Bottoms Up]({{site.baseurl}}/img/gingerbeers/d.jpg)
 
 Nutrition Facts:
 
@@ -181,7 +181,7 @@ This ginger beer has a bit of a floor cleaner taste to me. Some people like that
 
 ### **E. Reading Draft:**
 
-![Reading Draft]({{site.baseurl}}/img/gingerbeer/readingdraft.jpg)
+![Reading Draft]({{site.baseurl}}/img/gingerbeers/e.jpg)
 
 
 Nutrition Facts:
@@ -215,7 +215,7 @@ This ginger beer tastes sweet but has a bit of spice. It has a rooty but sweet s
 
 ### **F. Cock'n Bull:**
 
-![Cock'n Bull]({{site.baseurl}}/img/gingerbeers/CocknBull.jpg)
+![Cock'n Bull]({{site.baseurl}}/img/gingerbeers/f.jpg)
 
 Nutrition Facts:
 
@@ -248,7 +248,7 @@ This ginger beer has a good taste with some spice. It's in my top 5 even though 
 
 ### **G. Rachel's Ginger Beer:**
 
-![Rachel's Ginger Beer]({{site.baseurl}}/img/gingerbeers/rachels.jpg)
+![Rachel's Ginger Beer]({{site.baseurl}}/img/gingerbeers/g.jpg)
 
 Nutrition Facts:
 
@@ -280,7 +280,7 @@ This isn't really in the same realm as the other ginger beers as it's really mor
 
 ### **H. Reeds:**
 
-![Reeds]({{site.baseurl}}/img/gingerbeers/reeds.jpeg)
+![Reeds]({{site.baseurl}}/img/gingerbeers/h.jpg)
 
 Nutrition Facts:
 
@@ -315,7 +315,7 @@ I'm going to be honest. I hate this ginger beer. The pineapple juice is a traves
 
 ### **I. Fentimans:**
 
-![Fentimans]({{site.baseurl}}/img/gingerbeers/fentimans.png)
+![Fentimans]({{site.baseurl}}/img/gingerbeers/i.jpg)
 
 Nutrition Facts:
 
@@ -351,7 +351,7 @@ This ginger beer is labeled as botanically brewed and you can definitely taste a
 
 ### **J. Fever Tree:**
 
-![Fever Tree]({{site.baseurl}}/img/gingerbeers/fevertree.png)
+![Fever Tree]({{site.baseurl}}/img/gingerbeers/j.jpg)
 
 Nutrition Facts:
 
@@ -384,7 +384,7 @@ It's spicy but a little more on the bitter side. This is really meant as more of
 
 ### **K. Q:**
 
-![Q]({{site.baseurl}}/img/gingerbeers/q.png)
+![Q]({{site.baseurl}}/img/gingerbeers/k.jpg)
 
 Nutrition Facts:
 
@@ -420,7 +420,7 @@ It's similar to Fever Tree but a bit different due to the chili extracts. It's s
 
 ### **L. Blenheim:**
 
-![Blenheim]({{site.baseurl}}/img/gingerbeers/Blenheim.jpg)
+![Blenheim]({{site.baseurl}}/img/gingerbeers/l.jpg)
 
 Nutrition Facts:
 
@@ -454,7 +454,7 @@ This is technically a ginger ale but it's one of the few that has actual ginger 
 
 ### **M. Anchor:**
 
-![Anchor]({{site.baseurl}}/img/gingerbeers/anchor.png)
+![Anchor]({{site.baseurl}}/img/gingerbeers/m.jpg)
 
 Nutrition Facts:
 
@@ -489,7 +489,7 @@ This is just a root beer with a hint of ginger so it can't really be compared to
 
 ### **N. Thomas Kemper:**
 
-![Thomas Kemper]({{site.baseurl}}/img/gingerbeers/thomaskemper.png)
+![Thomas Kemper]({{site.baseurl}}/img/gingerbeers/n.jpg)
 
 Nutrition Facts:
 
@@ -523,7 +523,7 @@ This is a ginger ale, standard soda rather than a brew but has a nice flavor.
 
 ### **O. Bawls:**
 
-![Bawls]({{site.baseurl}}/img/gingerbeers/bawls-ginger.png)
+![Bawls]({{site.baseurl}}/img/gingerbeers/o.jpg)
 
 Nutrition Facts:
 
@@ -558,7 +558,7 @@ This is an energy drink with a hint of ginger and can't be compared to ginger be
 
 ### **P. Diet Bundaberg:**
 
-![Diet Bundaberg]({{site.baseurl}}/img/gingerbeers/dietbundaberg.jpeg)
+![Diet Bundaberg]({{site.baseurl}}/img/gingerbeers/p.jpg)
 
 Nutrition Facts:
 
@@ -603,7 +603,7 @@ It's good as far as diet sodas go. But I don't like diet, may as well drink lemo
 
 ### **Q. Bundaberg:**
 
-![Bundaberg]({{site.baseurl}}/img/gingerbeers/bundaberg.jpg)
+![Bundaberg]({{site.baseurl}}/img/gingerbeers/q.jpg)
 
 Nutrition Facts:
 
@@ -640,7 +640,7 @@ This ginger beer is more of a soda but it is very good. Quite sugary and sweet b
 
 ### **R. Blue Sky:**
 
-![Blue Sky]({{site.baseurl}}/img/gingerbeers/bluesky.jpeg)
+![Blue Sky]({{site.baseurl}}/img/gingerbeers/r.jpg)
 
 Nutrition Facts:
 
@@ -672,7 +672,7 @@ Run of the mill ginger ale.
 
 ### **S. Powell And Mahoney:**
 
-![Powell and Mahoney]({{site.baseurl}}/img/gingerbeer/powellandmahoney.jpg)
+![Powell and Mahoney]({{site.baseurl}}/img/gingerbeers/s.jpg)
 
 Nutrition Facts:
 
@@ -707,7 +707,7 @@ Why don't you just pour mace in my ginger beer and call it good. I like spice pr
 
 ### **T. Hot Lips:**
 
-![Hot Lips]({{site.baseurl}}/img/gingerbeers/hotlips.jpg)
+![Hot Lips]({{site.baseurl}}/img/gingerbeers/t.jpg)
 
 Nutrition Facts:
 
@@ -738,7 +738,7 @@ Tastes like pina colada to me, one of the few ginger ales with real ginger.
 
 ### **U. Kroger:**
 
-![Kroger]({{site.baseurl}}/img/gingerbeers/kroger.jpeg)
+![Kroger]({{site.baseurl}}/img/gingerbeers/u.jpg)
 
 Nutrition Facts:
 
