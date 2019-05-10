@@ -3,7 +3,7 @@ published: true
 title: Ginger Beer
 ---
 
-![Ginger Beers]({{site.baseurl}}/img/gingerbeer/GingerBeers.jpg)
+![Ginger Beers]({{site.baseurl}}/img/gingerbeers/GingerBeers.jpg)
 
 I've been on a quest to try every non-alcoholic ginger beer out there to decide on which is the best. I have used a very scientific process which involved me drinking a variety of ginger beers and then deciding if I liked it or not.
 
