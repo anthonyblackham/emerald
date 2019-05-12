@@ -12,4 +12,4 @@ This is a link to the news release:
 
 As the image is a whopping 1.2 GB (25500x25500) I took the cropped image and cut it into a bunch of tiny tiles that load interactively on a web map below so you can see the image without crashing your phone or computer.
 
-<iframe src="https://anthonyblackham.github.io/HubbleLegacyField/"</iframe>
+<iframe src="https://anthonyblackham.github.io/HubbleLegacyField/" frameborder="0"</iframe>
