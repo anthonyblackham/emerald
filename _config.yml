@@ -1,14 +1,14 @@
 # Site settings
 title: Anthony Blackham | A pointless blog
 description: "Pointless Ramblings."
-url: "http://www.anthonyblackham.github.io/blog"
+url: "http://www.anthonyblackham.github.io/recipes"
 author:
   name: "Anthony Blackham"
   email: "AnthonyBlackham+Github@Gmail.com"
   url: "http://www.anthonyblackham.github.io"
 
 # Build settings
-baseurl: /blog/ # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: /recipes/ # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
