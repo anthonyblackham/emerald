@@ -30,4 +30,4 @@ Mix dough. Put on pan, Cook til cooked.
 
 Done.
 
-The original recipe called for cornflakes but that's a travesty and has been stricken from the record. 
+The original recipe called for cornflakes but that's a travesty and has been stricken from the record.
